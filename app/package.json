@@ -1,0 +1,14 @@
+{
+  "name": "ElectronBookstore",
+  "productName": "ElectronBookstore",
+  "description": "A sample Electron JS based application",
+  "version": "0.0.0",
+  "author": "",
+  "copyright": "© 2016, Victorious inc.",
+  "homepage": "",
+  "license": "MIT",
+  "main": "background.js",
+  "dependencies": {
+    "fs-jetpack": "^0.9.0"
+  }
+}
